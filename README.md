@@ -1,3 +1,20 @@
+# CONTACT MANAGER
+A contact manager web application for managing contact.
+
+## Built With
+
+- React
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+
+## Instructions
+
+- User can ***VIEW*** contacts.
+- User can ***ADD*** new contact.
+- User can ***DELETE*** the contacts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +85,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Visitors 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal1402.Contact-Manager&left_color=grey&right_color=black&left_text=HelloVisitors)
+
+## Authors
+
+👤 Kushal Doshi
+- Github: [@Kushal1402](https://github.com/Kushal1402)
+- Linkedin: [Kushal Doshi](https://www.linkedin.com/in/kushaldoshi1402)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/Kushal1402/Contact-Manager/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
