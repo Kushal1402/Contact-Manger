@@ -11,8 +11,8 @@ A contact manager web application for managing contact.
 
 ## Instructions
 
-- User can ***VIEW*** contacts.
-- User can ***ADD*** new contact.
+- User can ***READ*** contacts.
+- User can ***CREATE*** new contact.
 - User can ***DELETE*** the contacts.
 
 # Getting Started with Create React App
