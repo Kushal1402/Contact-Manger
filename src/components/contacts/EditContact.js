@@ -13,14 +13,14 @@ class EditContact extends Component {
    };
 
    async componentDidMount(){
-    const { id } = this.props.match.params;
-    const res = await axios.get('https://jsonplaceholder.typiode.com/users')
+    // const { id } = this.props.match.params;
+    await axios.get('https://jsonplaceholder.typiode.com/users')
 
-    const contact = res.data({
-        name : contact.name,
-        email : contact.email,
-        phone : contact.phone
-    })
+    // const contact = res.data({
+    //     name : contact.name,
+    //     email : contact.email,
+    //     phone : contact.phone
+    // })
    }
 
     onSubmit = async (dispatch, e) => {
