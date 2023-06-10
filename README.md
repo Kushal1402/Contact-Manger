@@ -15,6 +15,12 @@ A contact manager web application for managing contact.
 - User can ***CREATE*** new contact.
 - User can ***DELETE*** the contacts.
 
+## Site Link
+
+[Contact Manager](https://contact-manages.netlify.app/) 👈
+<br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/146b3c20-d11c-4fec-b362-2893cfc13704/deploy-status)](https://app.netlify.com/sites/contact-manages/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
