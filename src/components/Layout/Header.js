@@ -24,9 +24,9 @@ const Header = (props) => {
                 <li className="nav-item">
                     <Link to="/contact/add" className="nav-link" style={ {color:'white'} }><i className='fa fa-plus'></i> Add Contact</Link>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                     <Link to="/test" className="nav-link" style={ {color:'white'} }><i className='fa fa-check'></i> Test</Link>
-                </li>
+                </li> */}
             </ul>
         </div>
       </div>  
